@@ -1,3 +1,3 @@
 # firstproject
-https://github.com/growingananas/firstproject/pull/2
-https://github.com/growingananas/firstproject
+[Preview] https://github.com/growingananas/firstproject/pull/2
+[Pull Request] https://github.com/growingananas/firstproject
